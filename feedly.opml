@@ -23,7 +23,8 @@
             <outline type="rss" text="Web Design Ledger" title="Web Design Ledger" xmlUrl="http://webdesignledger.com/feed" htmlUrl="http://webdesignledger.com"/>
         </outline>
         <outline text="Frontend" title="Frontend">
-            <outline type="rss" text="Bocoup" title="Bocoup" xmlUrl="http://feeds.feedburner.com/bocoup" htmlUrl="http://bocoup.com/weblog/feed"/>
+            <outline type="rss" text="Bocoup" title="Bocoup" xmlUrl="http://feeds.feedburner.com/bocoup" htmlUrl="https://bocoup.com"/>
+            <outline type="rss" text="Snook.ca" title="Snook.ca" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
         </outline>
         <outline text="programming" title="programming">
             <outline type="rss" text="AddyOsmani.com | Articles for developers" title="AddyOsmani.com | Articles for developers" xmlUrl="http://feeds.feedburner.com/addyosmani" htmlUrl="http://addyosmani.com/blog"/>
@@ -34,6 +35,7 @@
         </outline>
         <outline text="Productivity" title="Productivity">
             <outline type="rss" text="Pick the Brain | Motivation and Self Improvement" title="Pick the Brain | Motivation and Self Improvement" xmlUrl="http://www.pickthebrain.com/blog/feed/" htmlUrl="http://www.pickthebrain.com/blog"/>
+            <outline type="rss" text="Lifehack" title="Lifehack" xmlUrl="http://www.lifehack.org/feed/" htmlUrl="http://www.lifehack.org"/>
             <outline type="rss" text="zen habits" title="zen habits" xmlUrl="http://feeds.feedburner.com/zenhabits" htmlUrl="http://zenhabits.net"/>
         </outline>
         <outline text="angularjs" title="angularjs">
@@ -44,6 +46,7 @@
             <outline type="rss" text="Latest AngularJS Modules" title="Latest AngularJS Modules" xmlUrl="http://ngmodules.org/modules.atom" htmlUrl="http://ngmodules.org"/>
         </outline>
         <outline text="Tech" title="Tech">
+            <outline type="rss" text="Cool Tools" title="Cool Tools" xmlUrl="http://feeds.feedburner.com/CoolTools" htmlUrl="http://kk.org/cooltools"/>
             <outline type="rss" text="ReadWrite" title="ReadWrite" xmlUrl="http://www.readwriteweb.com/rss.xml" htmlUrl="http://readwrite.com"/>
         </outline>
         <outline type="rss" text="Make" title="Make" xmlUrl="http://blog.makezine.com/index.xml" htmlUrl="http://makezine.com"/>

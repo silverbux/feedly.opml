@@ -18,12 +18,14 @@
         </outline>
         <outline text="Web design" title="Web design">
             <outline type="rss" text="Codrops" title="Codrops" xmlUrl="http://feeds2.feedburner.com/tympanus" htmlUrl="http://tympanus.net/codrops"/>
+            <outline type="rss" text="Envato Tuts+ Web Design" title="Envato Tuts+ Web Design" xmlUrl="http://feeds.feedburner.com/webdesigntutsplus" htmlUrl="http://webdesign.tutsplus.com"/>
             <outline type="rss" text="Webdesigner Depot" title="Webdesigner Depot" xmlUrl="http://www.webdesignerdepot.com/feed/" htmlUrl="http://www.webdesignerdepot.com"/>
-            <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://feeds.feedburner.com/Bludice" htmlUrl="http://davidwalsh.name"/>
+            <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://feeds.feedburner.com/Bludice" htmlUrl="https://davidwalsh.name"/>
             <outline type="rss" text="Web Design Ledger" title="Web Design Ledger" xmlUrl="http://webdesignledger.com/feed" htmlUrl="http://webdesignledger.com"/>
         </outline>
         <outline text="Frontend" title="Frontend">
             <outline type="rss" text="Bocoup" title="Bocoup" xmlUrl="http://feeds.feedburner.com/bocoup" htmlUrl="https://bocoup.com"/>
+            <outline type="rss" text="Christian Heilmann" title="Christian Heilmann" xmlUrl="http://feeds.feedburner.com/chrisheilmann" htmlUrl="https://www.christianheilmann.com"/>
             <outline type="rss" text="Snook.ca" title="Snook.ca" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
         </outline>
         <outline text="programming" title="programming">
@@ -60,7 +62,7 @@
         <outline type="rss" text="Culttt" title="Culttt" xmlUrl="http://culttt.com/feed/" htmlUrl="http://culttt.com"/>
         <outline type="rss" text="The Laravel Podcast" title="The Laravel Podcast" xmlUrl="http://www.buzzsprout.com/11908.rss" htmlUrl="http://laravel.com"/>
         <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://blog.codinghorror.com/"/>
-        <outline type="rss" text="Tuts+ Code" title="Tuts+ Code" xmlUrl="http://feeds.feedburner.com/nettuts" htmlUrl="http://code.tutsplus.com"/>
+        <outline type="rss" text="Envato Tuts+ Code" title="Envato Tuts+ Code" xmlUrl="http://feeds.feedburner.com/nettuts" htmlUrl="http://code.tutsplus.com"/>
         <outline type="rss" text="Webdesigner Depot" title="Webdesigner Depot" xmlUrl="http://feeds2.feedburner.com/webdesignerdepot" htmlUrl="http://www.webdesignerdepot.com"/>
         <outline type="rss" text="WebAppers" title="WebAppers" xmlUrl="http://feeds.feedburner.com/Webappers" htmlUrl="http://www.webappers.com"/>
         <outline type="rss" text="Raspberry Pi" title="Raspberry Pi" xmlUrl="http://www.raspberrypi.org/feed" htmlUrl="https://www.raspberrypi.org"/>
